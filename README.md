@@ -1,5 +1,8 @@
 
 # This is a list of existing commands for the apulxd bot! Enjoy! :D 
+![alt text](https://cdn.frankerfacez.com/emoticon/448243/4)
+
+
 
 # Commands
 | Command | Aliases | What can the command do?                                                                                             | 
