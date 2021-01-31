@@ -28,3 +28,4 @@
 | =chatstats (channel) | / | sends a streamelements chatstats link for the channel |
 | =ping | =bot, =info, =botinfo | sends the bot uptime and the amount of active channels |
 | =pingme | / | sends your username to ping you | 
+| =randomclip | =rmc, =rc | sends a random twitch clip |
