@@ -8,9 +8,9 @@
 | Command | Aliases | What can the command do?                                                                                             | 
 |:-------:|:-------:|:--------------------------------------------------------------------------------------------------------------------:|
 | =viewer (streamer) | / | shows the current viewercount of a streamer |
-| =spam (number/length) (word) | / | spams the word the given time (boradcaster only) |
-| ==massping (word) | / | pings the whole viewerlist with the specified word (all users are pinged in separate messages) (boradcaster only) |
-| =pyramid (number/length) (word)| / | pyramid with the specified word and the specified length (boradcaster only) |
+| =spam (number/length) (word) | / | spams the word the given time (mod/broadcaster only) |
+| ==massping (word) | / | pings the whole viewerlist with the specified word (all users are pinged in separate messages) (broadcaster only) |
+| =pyramid (number/length) (word)| / | pyramid with the specified word and the specified length (mod/broadcaster only) |
 | =suggest (suggestion) | / | creates a suggestion |
 | =removesuggest (id) | / | removes the suggestion |
 | =removebot | / | remove the bot from your channel (only available in paauulli 's or apulxd 's chat) |
