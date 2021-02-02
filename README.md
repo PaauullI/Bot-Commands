@@ -29,3 +29,5 @@
 | =ping | =bot, =info, =botinfo | sends the bot uptime and the amount of active channels |
 | =pingme | / | sends your username to ping you | 
 | =randomclip | =rmc, =rc | sends a random twitch clip |
+| =ignoreme | / | ignores you from the massping command |
+| =unignoreme | / | unignores you from the massping command |
