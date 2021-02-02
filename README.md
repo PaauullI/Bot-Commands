@@ -31,3 +31,4 @@
 | =randomclip | =rmc, =rc | sends a random twitch clip |
 | =ignoreme | / | ignores you from the massping command |
 | =unignoreme | / | unignores you from the massping command |
+| =yourmom | / | pings an user with a mum joke |
