@@ -32,3 +32,4 @@
 | =ignoreme | / | ignores you from the massping command |
 | =unignoreme | / | unignores you from the massping command |
 | =yourmom | / | pings an user with a mum joke |
+| =isstaff | / | shows whether a user is a staff or not |
