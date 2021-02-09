@@ -33,3 +33,4 @@
 | =unignoreme | / | unignores you from the massping command |
 | =yourmom | / | pings an user with a mum joke |
 | =isstaff | / | shows whether a user is a staff or not |
+| =8ball | / | 	Checks your question against the fortune-telling 8-ball. |
