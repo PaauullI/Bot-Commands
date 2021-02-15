@@ -36,3 +36,5 @@
 | =dinkdonk (word) | / | pings the whole viewerlist with the specified word (all users are pinged in one messages) (broadcaster only) |
 | =isstaff | / | shows whether a user is a staff or not |
 | =8ball | / | 	Checks your question against the fortune-telling 8-ball. |
+| =permitlist add/remove | / | 	Adds or removes a person from the permitlist |
+| =permitlist admin add/remove | / | 	Adds or removes a person from the admin permitlist |
