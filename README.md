@@ -8,9 +8,9 @@
 | Command | Aliases | What can the command do?                                                                                             | 
 |:-------:|:-------:|:--------------------------------------------------------------------------------------------------------------------:|
 | =viewer (streamer) | / | shows the current viewercount of a streamer |
-| =spam (number/length) (word) | / | spams the word the given time (mod/broadcaster only) |
-| ==massping (word) | =massping | pings the whole viewerlist with the specified word (all users are pinged in separate messages) (broadcaster only) |
-| =pyramid (number/length) (word)| / | pyramid with the specified word and the specified length (mod/broadcaster only) |
+| =spam (number/length) (word) | / | spams the word the given time (permitlist/broadcaster only) |
+| ==massping (word) | =massping | pings the whole viewerlist with the specified word (all users are pinged in separate messages) (admin/broadcaster only) |
+| =pyramid (number/length) (word)| / | pyramid with the specified word and the specified length (permitlist/broadcaster only) |
 | =suggest (suggestion) | / | creates a suggestion |
 | =removesuggest (id) | / | removes the suggestion |
 | =removebot | / | remove the bot from your channel (only available in paauulli 's or apulxd 's chat) |
@@ -33,7 +33,7 @@
 | =ignoreme | / | ignores you from the massping command |
 | =unignoreme | / | unignores you from the massping command |
 | =yourmom | / | pings an user with a mum joke |
-| =dinkdonk (word) | / | pings the whole viewerlist with the specified word (all users are pinged in one messages) (broadcaster only) |
+| =dinkdonk (word) | / | pings the whole viewerlist with the specified word (all users are pinged in one messages) (admin/broadcaster only) |
 | =isstaff | / | shows whether a user is a staff or not |
 | =8ball | / | 	Checks your question against the fortune-telling 8-ball. |
 | =permitlist add/remove | / | 	Adds or removes a person from the permitlist |
