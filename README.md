@@ -17,6 +17,7 @@
 | =ov (channel) | / | shows the chatter/offline viewer count of the specified channel |
 | =id (name) | / | shows the id  of the specified user |
 | =ffz (channel) | / | shows the ffz emotes of the specified channel |
+| =bttv (channel) | / | shows the bttv emotes of the specified channel |
 | =joinbot| / | let the bot join your channel (only available in paauulli 's or apulxd 's chat) |
 | =color (name) | / | shows the color of the specified user |
 | =accage (name) | / | shows the account age of an user |
