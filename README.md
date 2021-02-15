@@ -9,7 +9,7 @@
 |:-------:|:-------:|:--------------------------------------------------------------------------------------------------------------------:|
 | =viewer (streamer) | / | shows the current viewercount of a streamer |
 | =spam (number/length) (word) | / | spams the word the given time (mod/broadcaster only) |
-| ==massping (word) | / | pings the whole viewerlist with the specified word (all users are pinged in separate messages) (broadcaster only) |
+| ==massping (word) | =massping | pings the whole viewerlist with the specified word (all users are pinged in separate messages) (broadcaster only) |
 | =pyramid (number/length) (word)| / | pyramid with the specified word and the specified length (mod/broadcaster only) |
 | =suggest (suggestion) | / | creates a suggestion |
 | =removesuggest (id) | / | removes the suggestion |
@@ -33,5 +33,6 @@
 | =ignoreme | / | ignores you from the massping command |
 | =unignoreme | / | unignores you from the massping command |
 | =yourmom | / | pings an user with a mum joke |
+| =dinkdonk (word) | / | pings the whole viewerlist with the specified word (all users are pinged in one messages) (broadcaster only) |
 | =isstaff | / | shows whether a user is a staff or not |
 | =8ball | / | 	Checks your question against the fortune-telling 8-ball. |
