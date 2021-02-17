@@ -38,4 +38,5 @@
 | =8ball | / | 	Checks your question against the fortune-telling 8-ball. |
 | =permitlist add/remove | / | 	Adds or removes a person from the permitlist |
 | =permitlist admin add/remove | / | 	Adds or removes a person from the admin permitlist |
-| =stalk (user) (channel) | / | checks if an user is in an specific viewerlist|
+| =stalk (user) (channel) | / | checks if an user is in an specific viewerlist |
+| =isbanned (user) | / | shows whether a user is banned or not |
