@@ -40,3 +40,5 @@
 | =permitlist admin add/remove | / | 	Adds or removes a person from the admin permitlist |
 | =stalk (user) (channel) | / | checks if an user is in an specific viewerlist |
 | =isbanned (user) | / | shows whether a user is banned or not |
+| =emote (name) | / | gives an info about the emote |
+| =emoteset (setid) | / | returns the emotes of the specified set |
