@@ -4,7 +4,7 @@
 
 
 
-# Commands
+# Commands (All commands have a minimum 5-second cooldown period)
 | Command | Aliases | What can the command do?                                                                                             | 
 |:-------:|:-------:|:--------------------------------------------------------------------------------------------------------------------:|
 | =viewer (streamer) | / | shows the current viewercount of a streamer |
