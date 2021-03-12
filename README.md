@@ -42,3 +42,5 @@
 | =isbanned (user) | / | shows whether a user is banned or not |
 | =emote (name) | / | gives an info about the emote |
 | =emoteset (setid) | / | returns the emotes of the specified set |
+| =title (streamer) | / | returns the title of  streamer |
+| =botsubs | / | returns the botsubs 4Head |
